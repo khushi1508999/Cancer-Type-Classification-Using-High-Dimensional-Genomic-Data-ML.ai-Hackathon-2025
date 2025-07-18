@@ -12,6 +12,8 @@ The challenge is to classify **five types of cancer** from gene expression profi
 The project aims to build **robust and generalizable models** that can operate in real-world biomedical contexts like **precision oncology**.
 
 ---
+## Dataset
+Dataset can be accesses through the link mentioned: <https://www.kaggle.com/competitions/ml-ai-hackathon-2025/data>
 
 ## 📂 Dataset Overview
 
